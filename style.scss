@@ -19,19 +19,11 @@ html {
 }
 
 body {
-  background: url(https://linerly.github.io/assets/background.png);
+  background: url(https://linerly.github.io/assets/background.png), rgba(0,0,0,0.1);
   background-repeat: repeat;
   background-size: fixed;
   font: 18px/1.4 'Quicksand', sans-serif;
   color: $darkGray;
-}
-
-body:after {
-  content: "";
-  position: fixed;
-  top: 0; bottom: 0; left: 0; right: 0; 
-  background: rgba(0,0,0,0.1);
-  pointer-events: none;
 }
 
 .container {
