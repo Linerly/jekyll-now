@@ -6,7 +6,7 @@
 name: Linerly
 
 # Short bio or description (displayed in the header)
-description: Welcome to my blog!
+description: Welcome to my blog! This is where I post articles here.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://en.gravatar.com/userimage/174153450/16539cb696dfcd68d2bee9dad4872074.png
@@ -25,11 +25,11 @@ footer-links:
   instagram: liner.ly
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: Linerly_
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  stackoverflow:
+  youtube: channel/UCqYsiJ_7GN2wkwiPsmySy2Q
+  googleplus:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
