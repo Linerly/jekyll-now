@@ -35,7 +35,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Quicksand', sans-serif;
-  color: #000000;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -72,7 +72,7 @@ p {
 }
 
 a {
-  color: #add8e6;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -120,7 +120,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #ffffff;
+  color: $gray;
 }
 
 // Specify the color of the selection
@@ -197,7 +197,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -216,7 +216,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Quicksand', sans-serif;
   font-size: 18px;
 
   @include mobile {
