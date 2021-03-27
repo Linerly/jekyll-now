@@ -22,6 +22,11 @@ body {
   background-image: url("https://linerly.github.io/assets/background.png");
   background-repeat: repeat;
   background-attachment: fixed;
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
   font: 18px/1.4 'Quicksand', sans-serif;
   color: $darkGray;
 }
