@@ -72,7 +72,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #fff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -205,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
@@ -271,7 +271,6 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    color: $gray;
   }
 }
 
