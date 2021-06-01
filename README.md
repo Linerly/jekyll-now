@@ -1,5 +1,11 @@
-This is my Jekyll blog repository based on Jekyll Now. You can visit my blog by clicking [here.](https://linerly.github.io/blog)
+## This is my Jekyll blog repository based on Jekyll Now. You can visit my blog by clicking [here.](https://linerly.github.io/blog)
+
+![license](https://img.shields.io/github/license/Linerly/blog?style=plastic)
+
+![uptime](https://img.shields.io/uptimerobot/status/m788298845-331d01ea4fb70bb52cde9fc4?style=plastic)
+
 ---
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
