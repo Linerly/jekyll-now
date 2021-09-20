@@ -27,7 +27,7 @@ body {
   background-repeat: repeat;
   background-attachment: scroll;
   font: 18px/1.4 'Quicksand', sans-serif;
-  color: $darkGray;
+  color: $lightGray;
 }
 
 .container {
@@ -44,7 +44,7 @@ h4,
 h5,
 h6 {
   font-family: 'Quicksand', sans-serif;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -74,7 +74,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $lightGray;
 }
 
 p {
@@ -139,7 +139,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $lightGray;
 }
 
 // Specify the color of the selection
@@ -215,7 +215,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $blue;
   cursor: pointer;
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
@@ -225,7 +225,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
@@ -277,9 +277,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $lightGray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $lightGray;
     font-size: 22px;
     font-style: italic;
   }
